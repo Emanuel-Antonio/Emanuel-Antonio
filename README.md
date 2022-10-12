@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hi! I'm Emanuel!</h1>
+	<h1>Hi! I'm Emanuel! 👨‍💻</h1>
 	<div>Computer Engineering Student.</div>
 	<br />
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-VisualStudioCode-87cefa?style=flat&logo=VisualStudioCode" /></a>
