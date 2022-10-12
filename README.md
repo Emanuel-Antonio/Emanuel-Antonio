@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+	<h1>Hi! I'm Emanuel!</h1>
+	<div>Computer Engineering Student.</div>
+	<br />
+	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/EDITOR-VisualStudioCode-a6e3a1?style=flat&logo=VisualStudioCode" /></a>
+	<a href="https://github.com/Emanuel-Antonio"><img src="https://img.shields.io/github/stars/Emanuel-Antonio?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<br />
+	<br />
+</div>
 
-<!--
-**Emanuel-Antonio/Emanuel-Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&theme=gruvbox&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=false" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&theme=gruvbox&hide_title=true&langs_count=8&layout=compact&hide_border=false" />
+	<br />
+	<br />
+</div>
