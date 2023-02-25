@@ -8,9 +8,4 @@
 	<br />
 </div>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&theme=gruvbox&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=false" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&theme=gruvbox&hide_title=true&langs_count=8&layout=compact&hide_border=false" />
-	<br />
-	<br />
-</div>
+
