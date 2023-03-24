@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093342&height=120&section=header"/>
 
-
 <div align="center">
 	<h1>Hi! I'm Emanuel Antonio 👨‍💻!</h1>
-	  <div>Computer Engineering Student.</div>
+	  <div>Computer Engineering Student</div>
         <br />
         <p align="center"> <img src="https://komarev.com/ghpvc/?username=Emanuel-Antonio&label=Profile%20views&color=0e75b6&style=flat" alt="Emanuel-Antonio" /> </p>
         <a href="https://code.visualstudio.com/"><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" /></a>
