@@ -8,11 +8,10 @@
         <a href="https://code.visualstudio.com/"><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" /></a>
         <a href="https://www.jetbrains.com/idea/"><img height="25" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" /></a>
         <br />
-        <br />
 </div>
-		
+
 &nbsp;
-<p align="center">
+<div align="center">
     <a href="https://github.com/Emanuel-Antonio">
         <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
@@ -20,6 +19,7 @@
         <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
 </p>
+</div>
 
 <div style="display: inline_block"><br>
  	<img align="center" alt="Nel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
