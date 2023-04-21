@@ -14,10 +14,10 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/Emanuel-Antonio">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
     <a href="https://github.com/Emanuel-Antonio">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
 </p>
 
