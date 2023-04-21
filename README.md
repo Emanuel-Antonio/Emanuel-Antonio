@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093342&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006f72&height=120&section=header"/>
 
 <div align="center">
 	<h1>Hi! I'm Emanuel Antonio 👨‍💻!</h1>
@@ -12,8 +12,8 @@
 </div>
 <div align="center">
  	<a href="https://github.com/Emanuel-Antonio">
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&langs_count=7&theme=prussian"/>
+ 	<img height="215em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+ 	<img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 	
 <div style="display: inline_block"><br>
@@ -30,6 +30,6 @@
 	<a href="https://www.instagram.com/emanuelantonio390/?next=%2F" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093342&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006f72&height=120&section=footer"/>
   
 
