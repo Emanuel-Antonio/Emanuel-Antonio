@@ -12,8 +12,8 @@
 </div>
 <div align="center">
  	<a href="https://github.com/Emanuel-Antonio">
- 	<img height="215em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
- 	<img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&langs_count=7&theme=prussian"/>
+ 	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+ 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 	
 <div style="display: inline_block"><br>
