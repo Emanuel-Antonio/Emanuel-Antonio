@@ -10,12 +10,17 @@
         <br />
         <br />
 </div>
-<div align="center">
- 	<a href="https://github.com/Emanuel-Antonio">
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&langs_count=7&theme=prussian"/>
-</div>
-	
+		
+&nbsp;
+<p align="center">
+    <a href="https://github.com/Emanuel-Antonio">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Antonio&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
+    <a href="https://github.com/Emanuel-Antonio">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
+</p>
+
 <div style="display: inline_block"><br>
  	<img align="center" alt="Nel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  	<img align="center" alt="Nel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -31,5 +36,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006f72&height=120&section=footer"/>
-  
-
